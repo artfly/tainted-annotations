@@ -1,1 +1,2 @@
 javax.servlet:javax.servlet-api
+org.hibernate:hibernate-core
