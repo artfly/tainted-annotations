@@ -1,2 +1,3 @@
 javax.servlet:javax.servlet-api
 org.hibernate:hibernate-core
+javax.persistence:javax.persistence-api
