@@ -1,0 +1,23 @@
+<root>
+    <item name='org.hibernate.engine.spi.SharedSessionContractImplementor int executeNativeUpdate(org.hibernate.engine.query.spi.sql.NativeSQLQuerySpecification, org.hibernate.engine.spi.QueryParameters) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='org.hibernate.engine.spi.SharedSessionContractImplementor int executeUpdate(java.lang.String, org.hibernate.engine.spi.QueryParameters) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='org.hibernate.engine.spi.SharedSessionContractImplementor java.util.Iterator iterate(java.lang.String, org.hibernate.engine.spi.QueryParameters) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='org.hibernate.engine.spi.SharedSessionContractImplementor java.util.List list(java.lang.String, org.hibernate.engine.spi.QueryParameters) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='org.hibernate.engine.spi.SharedSessionContractImplementor java.util.List list(org.hibernate.engine.query.spi.sql.NativeSQLQuerySpecification, org.hibernate.engine.spi.QueryParameters) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='org.hibernate.engine.spi.SharedSessionContractImplementor org.hibernate.query.spi.ScrollableResultsImplementor scroll(java.lang.String, org.hibernate.engine.spi.QueryParameters) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='org.hibernate.engine.spi.SharedSessionContractImplementor org.hibernate.query.spi.ScrollableResultsImplementor scroll(org.hibernate.engine.query.spi.sql.NativeSQLQuerySpecification, org.hibernate.engine.spi.QueryParameters) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+</root>

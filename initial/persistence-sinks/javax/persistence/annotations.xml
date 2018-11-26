@@ -1,0 +1,17 @@
+<root>
+    <item name='javax.persistence.EntityManager javax.persistence.Query createNativeQuery(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='javax.persistence.EntityManager javax.persistence.Query createNativeQuery(java.lang.String, java.lang.Class) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='javax.persistence.EntityManager javax.persistence.Query createNativeQuery(java.lang.String, java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='javax.persistence.EntityManager javax.persistence.Query createQuery(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='javax.persistence.EntityManager javax.persistence.TypedQuery&lt;T&gt; createQuery(java.lang.String, java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+</root>

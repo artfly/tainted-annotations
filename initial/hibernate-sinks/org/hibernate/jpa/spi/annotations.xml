@@ -1,0 +1,5 @@
+<root>
+    <item name='org.hibernate.jpa.spi.HibernateEntityManagerImplementor org.hibernate.query.Query&lt;T&gt; createQuery(java.lang.String, java.lang.Class&lt;T&gt;, javax.persistence.criteria.Selection, org.hibernate.jpa.spi.HibernateEntityManagerImplementor.QueryOptions) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+</root>

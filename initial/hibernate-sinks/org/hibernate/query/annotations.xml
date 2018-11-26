@@ -1,0 +1,20 @@
+<root>
+    <item name='org.hibernate.query.QueryProducer org.hibernate.Query createQuery(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='org.hibernate.query.QueryProducer org.hibernate.SQLQuery createSQLQuery(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='org.hibernate.query.QueryProducer org.hibernate.query.NativeQuery createNativeQuery(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='org.hibernate.query.QueryProducer org.hibernate.query.NativeQuery createNativeQuery(java.lang.String, java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='org.hibernate.query.QueryProducer org.hibernate.query.NativeQuery&lt;R&gt; createNativeQuery(java.lang.String, java.lang.Class&lt;R&gt;) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='org.hibernate.query.QueryProducer org.hibernate.query.Query&lt;R&gt; createQuery(java.lang.String, java.lang.Class&lt;R&gt;) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+</root>

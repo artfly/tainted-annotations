@@ -1,0 +1,74 @@
+<root>
+    <item name='java.io.File File(java.io.File, java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.File File(java.io.File, java.lang.String) 1'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.File File(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.File File(java.lang.String, int) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.File File(java.lang.String, java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.File File(java.lang.String, java.lang.String) 1'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.File File(java.net.URI) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.File boolean renameTo(java.io.File) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.File java.io.File createTempFile(java.lang.String, java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.File java.io.File createTempFile(java.lang.String, java.lang.String) 1'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.File java.io.File createTempFile(java.lang.String, java.lang.String, java.io.File) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.File java.io.File createTempFile(java.lang.String, java.lang.String, java.io.File) 1'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.File java.io.File createTempFile(java.lang.String, java.lang.String, java.io.File) 2'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.OutputStream void write(byte[]) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.OutputStream void write(byte[], int, int) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.OutputStream void write(int) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.Writer java.io.Writer append(char) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.Writer java.io.Writer append(java.lang.CharSequence) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.Writer java.io.Writer append(java.lang.CharSequence, int, int) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.Writer void write(char[]) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.Writer void write(char[], int, int) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.Writer void write(int) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.Writer void write(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.io.Writer void write(java.lang.String, int, int) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+</root>

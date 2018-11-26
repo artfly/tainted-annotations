@@ -1,0 +1,71 @@
+<root>
+    <item name='java.sql.Connection java.sql.CallableStatement prepareCall(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.sql.Connection java.sql.CallableStatement prepareCall(java.lang.String, int, int) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.sql.Connection java.sql.CallableStatement prepareCall(java.lang.String, int, int, int) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.sql.Connection java.sql.PreparedStatement prepareStatement(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.sql.Connection java.sql.PreparedStatement prepareStatement(java.lang.String, int) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.sql.Connection java.sql.PreparedStatement prepareStatement(java.lang.String, int, int) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.sql.Connection java.sql.PreparedStatement prepareStatement(java.lang.String, int, int, int) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.sql.Connection java.sql.PreparedStatement prepareStatement(java.lang.String, int[]) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.sql.Connection java.sql.PreparedStatement prepareStatement(java.lang.String, java.lang.String[]) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.sql.Statement boolean execute(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.sql.Statement boolean execute(java.lang.String, int) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.sql.Statement boolean execute(java.lang.String, int[]) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.sql.Statement boolean execute(java.lang.String, java.lang.String[]) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.sql.Statement int executeUpdate(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.sql.Statement int executeUpdate(java.lang.String, int) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.sql.Statement int executeUpdate(java.lang.String, int[]) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.sql.Statement int executeUpdate(java.lang.String, java.lang.String[]) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.sql.Statement java.sql.ResultSet executeQuery(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.sql.Statement long executeLargeUpdate(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.sql.Statement long executeLargeUpdate(java.lang.String, int) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.sql.Statement long executeLargeUpdate(java.lang.String, int[]) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.sql.Statement long executeLargeUpdate(java.lang.String, java.lang.String[]) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.sql.Statement void addBatch(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+</root>

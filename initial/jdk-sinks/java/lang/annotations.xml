@@ -1,0 +1,53 @@
+<root>
+    <item name='java.lang.Appendable java.lang.Appendable append(char) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.lang.Appendable java.lang.Appendable append(java.lang.CharSequence) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.lang.Appendable java.lang.Appendable append(java.lang.CharSequence, int, int) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.lang.Runtime java.lang.Process exec(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.lang.Runtime java.lang.Process exec(java.lang.String, java.lang.String[]) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.lang.Runtime java.lang.Process exec(java.lang.String, java.lang.String[]) 1'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.lang.Runtime java.lang.Process exec(java.lang.String, java.lang.String[], java.io.File) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.lang.Runtime java.lang.Process exec(java.lang.String, java.lang.String[], java.io.File) 1'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.lang.Runtime java.lang.Process exec(java.lang.String[]) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.lang.Runtime java.lang.Process exec(java.lang.String[], java.lang.String[]) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.lang.Runtime java.lang.Process exec(java.lang.String[], java.lang.String[]) 1'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.lang.Runtime java.lang.Process exec(java.lang.String[], java.lang.String[], java.io.File) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.lang.Runtime java.lang.Process exec(java.lang.String[], java.lang.String[], java.io.File) 1'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.lang.Runtime void load(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.lang.Runtime void loadLibrary(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.lang.System void load(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='java.lang.System void loadLibrary(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+</root>

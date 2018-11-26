@@ -1,0 +1,89 @@
+<root>
+    <item name='javax.servlet.http.HttpServletRequest java.lang.String getContextPath()'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletRequest java.lang.String getHeader(java.lang.String)'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletRequest java.lang.String getPathInfo()'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletRequest java.lang.String getPathTranslated()'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletRequest java.lang.String getQueryString()'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletRequest java.lang.String getRemoteUser()'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletRequest java.lang.String getRequestURI()'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletRequest java.lang.String getRequestedSessionId()'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletRequest java.lang.StringBuffer getRequestURL()'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletRequest java.util.Collection&lt;javax.servlet.http.Part&gt; getParts()'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletRequest java.util.Enumeration&lt;java.lang.String&gt; getHeaderNames()'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletRequest java.util.Enumeration&lt;java.lang.String&gt; getHeaders(java.lang.String)'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletRequest java.util.Map&lt;java.lang.String,java.lang.String&gt; getTrailerFields()'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletRequest javax.servlet.http.Cookie[] getCookies()'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletRequest javax.servlet.http.HttpSession getSession()'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletRequest javax.servlet.http.HttpSession getSession(boolean)'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletRequest javax.servlet.http.Part getPart(java.lang.String)'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletResponse void addCookie(javax.servlet.http.Cookie) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletResponse void addDateHeader(java.lang.String, long) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletResponse void addHeader(java.lang.String, java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletResponse void addHeader(java.lang.String, java.lang.String) 1'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletResponse void addIntHeader(java.lang.String, int) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletResponse void sendError(int, java.lang.String) 1'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletResponse void sendRedirect(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletResponse void setDateHeader(java.lang.String, long) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletResponse void setHeader(java.lang.String, java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletResponse void setHeader(java.lang.String, java.lang.String) 1'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletResponse void setIntHeader(java.lang.String, int) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='javax.servlet.http.HttpServletResponse void setTrailerFields(java.util.function.Supplier&lt;java.util.Map&lt;java.lang.String,java.lang.String&gt;&gt;) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+</root>

@@ -1,0 +1,5 @@
+<root>
+    <item name='org.hibernate.Session org.hibernate.Query createFilter(java.lang.Object, java.lang.String) 1'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+</root>

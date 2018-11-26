@@ -1,0 +1,5 @@
+<root>
+    <item name='java.nio.file.spi.FileSystemProvider java.nio.file.Path getPath(java.net.URI) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+</root>
