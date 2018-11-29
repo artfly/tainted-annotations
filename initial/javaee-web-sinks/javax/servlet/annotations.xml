@@ -1,0 +1,50 @@
+<root>
+    <item name='javax.servlet.ServletOutputStream void print(char) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='javax.servlet.ServletOutputStream void print(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='javax.servlet.ServletOutputStream void println(char) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='javax.servlet.ServletOutputStream void println(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='javax.servlet.ServletRequest java.io.BufferedReader getReader()'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.ServletRequest java.lang.String getContentType()'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.ServletRequest java.lang.String getParameter(java.lang.String)'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.ServletRequest java.lang.String getRemoteAddr()'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.ServletRequest java.lang.String getRemoteHost()'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.ServletRequest java.lang.String getServerName()'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.ServletRequest java.lang.String[] getParameterValues(java.lang.String)'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.ServletRequest java.util.Enumeration&lt;java.lang.String&gt; getParameterNames()'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.ServletRequest java.util.Map&lt;java.lang.String,java.lang.String[]&gt; getParameterMap()'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.ServletRequest javax.servlet.ServletInputStream getInputStream()'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Tainted'/>
+    </item>
+    <item name='javax.servlet.ServletResponse void setCharacterEncoding(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+    <item name='javax.servlet.ServletResponse void setContentType(java.lang.String) 0'>
+        <annotation name='com.intellij.inspections.tainted.annotation.Untainted'/>
+    </item>
+</root>
